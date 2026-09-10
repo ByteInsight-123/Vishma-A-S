@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishma A S</h1>
 
 <h3 align="center">Python Full Stack Developer | Django | Web Development | GenAI</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/66af0afa-66ab-4fb0-8832-1b84555f2e6c" />
+
 
 <p align="center">
   <i>Building practical web applications with Python and modern web technologies.</i>
